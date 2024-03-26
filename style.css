@@ -1,11 +1,11 @@
 .cabeçalho{
     color: rgba(0, 0, 0, 0.973);
-    background-color: antiquewhite;
+    background-color: rgb(85, 119, 194);
     justify-content: center;
 }
 .paragrafo-introducao{
-    color: cornsilk;
-    background-color: blanchedalmond;
+    color: rgb(0, 0, 0);
+    background-color: rgb(205, 218, 255);
 }
 
 
