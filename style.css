@@ -12,4 +12,11 @@
     text-align: center;
 }
 
-.cabeçalho_titulo
+.cabeçalho_titulo{
+    font-size: 30px;
+}
+
+.paragrafo_introduçao{
+    text-align: center;
+    text-align: justify;
+}
