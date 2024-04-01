@@ -1,16 +1,15 @@
-.cabeçalho{
-    color: rgba(0, 0, 0, 0.973);
-    background-color: rgb(85, 119, 194);
-    justify-content: center;
-}
-.paragrafo-introducao{
-    color: rgb(0, 0, 0);
-    background-color: rgb(205, 218, 255);
-}
-.lista_paginas_secundarias{
-    display: inline-block;
-}
-.corpo_pagina{
-    background-color: black;
+*{
+    margin: 0px;
+    padding: 0px;
 }
 
+.corpo_site{
+    color: blanchedalmond;
+    background-color: aliceblue;
+}
+
+.cabeçalho{
+    text-align: center;
+}
+
+.cabeçalho_titulo
