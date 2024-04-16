@@ -13,14 +13,12 @@
 }
 
 .cabeçalho_titulo{
-    font-size: 50px;
+    font-size: 80px;
 }
 
 .paragrafo_introduçao{
     text-align: center;
     text-align: justify;
-    margin: 20px;
-    padding: 20px;
     font-size: 50%;
 }
 
