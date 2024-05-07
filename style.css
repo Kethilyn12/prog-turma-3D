@@ -13,8 +13,18 @@
 }
 
 .cabeçalho_titulo{
-    font-size: 80px;
+    font-size: 100px;
 }
+.cabeçalho_subtitulo{
+    font-size: 100px;
+
+}
+.introduçao{
+    text-align: center;
+    text-align:justify ;
+    padding: 15px;
+}
+    
 
 .paragrafo_introduçao{
     text-align: center;
@@ -23,10 +33,13 @@
 }
 
 .foto_turma{
-    width: 40%;
+    width: 60%;
 }
 
 .paginassecundarias{
-    padding:24px 0;
-
+    display: inline-block;
+    font-size: 20px;
+    justify-content: space-around;
+    
+    
 }
